@@ -1,0 +1,6 @@
+{
+  "name": "Cyber Guard",
+  "description": "Privacy-focused personal cybersecurity and password manager with Watchtower security engine, encrypted storage, and real-time AI security assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
